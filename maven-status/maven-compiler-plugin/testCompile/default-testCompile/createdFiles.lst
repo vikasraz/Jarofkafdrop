@@ -1,0 +1,5 @@
+kafdrop\KafdropTest.class
+kafdrop\model\ConsumerPartitionVOTest.class
+kafdrop\LocalRunner.class
+kafdrop\AbstractIntegrationTest$Initializer.class
+kafdrop\AbstractIntegrationTest.class
